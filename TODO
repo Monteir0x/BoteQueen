@@ -1,0 +1,1 @@
+// refactor services method, fix bug in createProduct where updatedAt dont be passed when create a product
